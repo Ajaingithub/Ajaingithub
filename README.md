@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav Jain
 - 👀 I’m interested in analyzing single cell and bulk multiomics datasets and predicting the celltype using Machine Learning.
-- 🌱 I’m currently learning bash, R, and Python.
+- 🌱 I’m currently using R, Python, and bash/shell scripting.
 - 💞️ I’m looking to collaborate on immunology, immune aging, SARS-CoV-2, population genomics, and rare disease projects.
 - 📫 How to reach me abhinavjj@gmail.com.
 
