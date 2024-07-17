@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhinav Jain, Currently a postdoctoral fellow in Mayo Clinic Rochester, MN
-- 👀 I work in single cell, spatial, bulk multimodal and multiomics datasets in immune related disorders. Further I am interested in predicting the immune celltype using Machine Learning.
+- 👋 Hi, I’m Abhinav Jain, Currently a postdoctoral fellow in UCSF, California
+- 👀 I work on Lineage Tracing, single cell, spatial, bulk multimodal and multiomics datasets in medulloblastoma and immune related disorders. 
 - 🌱 I’m currently using R, Python, Nextflow, and Bash/Shell scripting.
-- 💞️ I’m looking to collaborate in immunology, autoimmune disorders, immune aging, SARS-CoV-2, population genomics, and rare disease projects.
+- 💞️ I’m looking to collaborate in cancer, immunology, autoimmune disorders, immune aging, SARS-CoV-2, population genomics, and rare disease projects.
 - 📫 How to reach me abhinavjj@gmail.com.
 
 <!---
