@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Abhinav Jain, Currently a postdoctoral fellow in UCSF, California<br>    👀 I work on Lineage Tracing, single cell, spatial, bulk multimodal and multiomics datasets in medulloblastoma and immune related disorders.<br>    🌱 I’m currently using R, Python, Nextflow, and Bash/Shell scripting.<br>    💞️ I’m looking to collaborate in cancer, immunology, autoimmune disorders, immune aging, SARS-CoV-2, population genomics, and rare disease projects.<br>    📫 How to reach me abhinavjj@gmail.com.
+<br>    👋 Hi, I’m Abhinav Jain, Currently a postdoctoral fellow in UCSF, California<br>    👀 I work on single cell, spatial, bulk multimodal (RNA + ATAC + Protein + TCR) and multiomics datasets including lineage Tracing in medulloblastoma and immune related disorders.<br>    🌱 I’m currently using R, Python, Nextflow, Docker, and Bash/Shell scripting.<br>    💞️ I’m looking to collaborate in cancer, immunology, autoimmune disorders, immune aging, SARS-CoV-2, population genomics, and rare disease projects.<br>    📫 How to reach me abhinavjj@gmail.com.
 
 
 ## 🌐 Socials:
