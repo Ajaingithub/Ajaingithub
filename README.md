@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br>    👋 Hi, I’m Abhinav Jain, Currently a postdoctoral fellow in UCSF, California<br>    👀 I work on single cell (RNA, ATAC, Multiome, CITESeq, ADT, TCR, Antigen, BEAM-T), spatial, bulk (WES, WGS, RNA, ATAC)  and multiomics datasets including lineage Tracing in medulloblastoma and immune related disorders.<br>    🌱 I’m currently using R, Python, Nextflow, Docker, Singularity, and Bash/Shell scripting.<br>    💞️ I’m looking to collaborate in cancer, immunology, autoimmune disorders, immune aging, SARS-CoV-2, population genomics, and rare disease projects.<br>    📫 How to reach me abhinavjj@gmail.com.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-jain-8b993074) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhinav_jain_19) 
 
